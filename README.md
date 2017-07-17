@@ -1,5 +1,5 @@
 # CS225-kdTree
-k-d tree implementation 
+For photo mosaic function: dividing a picture into small pieces and find the closest thumbnail picture to replace that part
 
 # When did this happen?
 A very long time ago when I was in college and my coding style just... did not exist
